@@ -21,4 +21,4 @@ In Cloud 9 terminal:
 > git commit -m "Commit message"
 > git push origin master (or whatever initial branch is, typically master)
 
-From your GitHub Choose new pull request. 
+From your GitHub create a new pull request (the green button) to send your changes to the instructor. 
