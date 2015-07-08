@@ -1,6 +1,6 @@
 Directions for Mr. Potato Head
 
-find [instructor] on github.com and find the Mr_Potato_Head project
+find [instructor] on github.com and find the Mr_Potato_Head repository
 
 
 >Fork their Repo
