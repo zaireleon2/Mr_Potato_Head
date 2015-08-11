@@ -18,7 +18,7 @@ What is the command for staging all the changes you made?
 A.  `git commit add .`
 B.  `git commit .`  
 C.  `git add .`  
-D.  `git push -m "Message"
+D.  `git push -m "Message"`
 
  How do you supply a commit message to a commit?
 
@@ -29,7 +29,7 @@ D.  `git commit -m "I'm coding"`
 
  How do you submit your code to the original user?
 
-A.  `git submit`
-B.  `git pull-request`
-C.   By creating a Pull Request through the GitHub interface
+A.  `git submit`  
+B.  `git pull-request`  
+C.   By creating a Pull Request through the GitHub interface  
 D.  `git commit -am "Done with Lab"`
