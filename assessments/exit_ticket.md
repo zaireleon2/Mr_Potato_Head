@@ -15,7 +15,7 @@ D.  `git other`
 
 What is the command for staging all the changes you made?
 
-A.  `git commit add .`
+A.  `git commit add .`  
 B.  `git commit .`  
 C.  `git add .`  
 D.  `git push -m "Message"`
