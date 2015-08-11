@@ -159,7 +159,7 @@ Give exit-ticket quiz.
 
 ### Closing
 
-Accept all of the pull requests and show off everyone's work on the board by plugging the URL into www.rawgit.com
+Accept all of the pull requests and show off everyone's work on the board by plugging the  potatohead.html URL into www.rawgit.com
 
 #### Homework
 
