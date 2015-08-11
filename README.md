@@ -169,5 +169,5 @@ Remind students when homework is due and how it will be collected.
 
 ## After class
 
-* Grade do-now & exit-ticket. Record in class spreadsheet.
+* Grade exit-ticket quiz.
 * Prepare for next lesson / hand off to next volunteer in rotation.
