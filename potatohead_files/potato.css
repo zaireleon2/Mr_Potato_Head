@@ -1,60 +1,40 @@
-h1, h2 {
-    text-align: center;
+h1 {
+  text-align: center;
 }
 
-h2 {
-	font-size: smaller;
-}
-
-fieldset {
-    float: left;
-}
-
-label {
-    display: block;
-}
 
 #potato {
-    position: relative;
-    width: 367px;
-    height: 428px;
-    border: 2px solid black;
-    margin-left: auto;
-    margin-right: auto;
-    background-image: url(https://webster.cs.washington.edu/labs/09sp/8/body.png);
-    background-color: white;
+  position: relative;
+  width: 367px;
+  height: 428px;
+  border: 2px solid black;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
 }
 
 #potato img {
-    position: absolute;
+  position: absolute;
 }
 
-#arms_image { top: 177px; left: 26px;}
+#body { top: 28px; left: 68px; }
 
-#ears_image { top: 104px; left: 58px; }
+#arms { top: 177px; left: 26px;}
 
-#eyes_image { top: 126px; left: 132px; z-index: 4; }
+#ears { top: 104px; left: 58px; }
 
-#mouth_image { top: 233px; left: 119px; z-index: 4; }
+#eyes { top: 126px; left: 132px; z-index: 4; }
 
-#nose_image { top: 170px; left: 131px; z-index: 6; }
+#mouth { top: 233px; left: 119px; z-index: 4; }
 
-#eyebrows_image { top: 102px; left: 109px; z-index: 5;}
+#nose { top: 170px; left: 131px; z-index: 6; }
 
-#glasses_image { top: 121px; left: 97px; z-index: 7;}
-            
-#hat_image { top: 28px; left: 101px; z-index: 10;}
+#eyebrows { top: 102px; left: 109px; z-index: 5;}
 
-#moustache_image { top: 189px; left: 91px; z-index: 5;}
+#glasses { top: 121px; left: 97px; z-index: 7;}
 
-#shoes_image { top: 297px; left: 46px;}
+#hat { top: 28px; left: 101px; z-index: 10;}
 
+#moustache { top: 189px; left: 91px; z-index: 5;}
 
-#w3c {
-	margin-top: 3em;
-	text-align: center;
-}
-
-#w3c img {
-	border: 0;
-}
+#shoes { top: 297px; left: 46px;}

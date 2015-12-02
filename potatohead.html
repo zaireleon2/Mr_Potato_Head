@@ -1,27 +1,33 @@
 <!DOCTYPE html>
 <!-- saved from url=(0077)http://www.webstepbook.com/supplements/labsection/lab8-potatohead/potato.html -->
 <html>
-	<head>
-		<title>Mr. Potato Head</title>
-		<link href="./potatohead_files/potato.css" type="text/css" rel="stylesheet">
-	</head>
-
-	<body>
-		<h1>Mr. Potato Head</h1>
-		<h2 id="status">He is wearing: </h2>
-
-		<div id="potato">
-			<img id="arms_image" src="potatohead_files/arms.png" alt="arms" style="top: 177px; left: 26px;">
-			<img id="ears_image" >
-			<img id="eyes_image" >
-			<img id="mouth_image" >
-			<img id="nose_image" >
-			<img id="eyebrows_image" >
-			<img id="glasses_image" >
-			<img id="hat_image" >
-			<img id="moustache_image" >
-			<img id="shoes_image" >
-		</div>
-
-</body>
+  <head>
+    <title>Mr. Potato Head</title>
+    <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <link href="./potatohead_files/potato.css" type="text/css" rel="stylesheet">
+  </head>
+  <body>
+    <h1>Mr. Potato Head</h1>
+    <div id="potato">
+      <img id="body" src="potatohead_files/body.png">
+      <img id="arms">
+      <img id="ears">
+      <img id="eyes">
+      <img id="mouth">
+      <img id="nose">
+      <img id="eyebrows">
+      <img id="glasses">
+      <img id="hat">
+      <img id="moustache">
+      <img id="shoes">
+    </div>
+    <script>
+    $(function() {
+      console.log('ready');
+      $('img').click(function(e) {
+        console.log($(e.target).attr('id'))
+      });
+    })
+    </script>
+  </body>
 </html>
